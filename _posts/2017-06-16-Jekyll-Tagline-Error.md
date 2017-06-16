@@ -13,7 +13,8 @@ In the process of building this websit using Jekyll Boostrap with Twitter theme,
 I just replaced the first 3 lines from page.html and post.html with the [following code](https://github.com/bisaria/bisaria.github.com/blob/master/_posts/2017-06-16-Jekyll-Tagline-Error.md) taken from [here](https://github.com/bendtherules/theme-twitter/blob/37bcce0088296c588324cc7e95e41be32a19fe1d/_includes/themes/twitter/post.html). These page and post templates are located at _includes/themes/twitter.
 
 
-```
+~~~
+
 <div class="page-header">
   <h1>{{ page.title }} 
 	{% if site.tagline or page.tagline %}
@@ -27,7 +28,9 @@ I just replaced the first 3 lines from page.html and post.html with the [followi
     {% endif %}
 </h1>
 </div>
-```
+
+~~~
+
 
 PS: Still working on stopping the above code snippet from getting set off by kramdown.
 
