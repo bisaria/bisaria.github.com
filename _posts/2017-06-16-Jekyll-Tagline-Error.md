@@ -29,3 +29,5 @@ I just replaced the first 3 lines from page.html and post.html with the [followi
 </div>
 ```
 
+PS: Still working on stopping the above code snippet from getting set off by kramdown.
+
