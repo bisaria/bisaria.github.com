@@ -9,7 +9,11 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
-  
+
+collections:
+  machinelearning:
+         output: true
+         permalink: /machinelearning/:path/ 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
