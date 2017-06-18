@@ -2,9 +2,9 @@
 layout: post
 title: "Yelp: Predicting Business Success\n Using Early User Reviews"
 date: "Febuary 16, 2016"
-category : mooc
+category : machinelearning
 tagline: ""
-tags : [john hopkins, data science, capstone]
+tags : [john hopkins, data science, capstone, mooc]
 ---
 {% include JB/setup %}
 
